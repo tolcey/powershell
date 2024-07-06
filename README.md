@@ -1,2 +1,2 @@
-# powershell
+# AD Kilitli Kullanıcı Listesi
 Powershell
